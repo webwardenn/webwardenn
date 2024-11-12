@@ -11,11 +11,4 @@
 
 ---
 
-### 📈 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=github-NoerDev&layout=compact&theme=dark&card_width=320)  
-![GitHub İstatistiklerim](https://github-readme-stats.vercel.app/api?username=github-NoerDev&show_icons=true&theme=dark)
-
----
-
 ![Web Development GIF](https://i.pinimg.com/originals/8d/65/4a/8d654a13763bdec3d37ab4180c8b66e6.gif)
