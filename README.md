@@ -10,8 +10,8 @@
 
 ## 📈 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=github-kullanici-adiniz&layout=compact&theme=dark&card_width=320)
-![GitHub İstatistiklerim](https://github-readme-stats.vercel.app/api?username=github-kullanici-adiniz&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=github-NoerDev&layout=compact&theme=dark&card_width=320)
+![GitHub İstatistiklerim](https://github-readme-stats.vercel.app/api?username=github-NoerDev&show_icons=true&theme=dark)
 
 
 ---
