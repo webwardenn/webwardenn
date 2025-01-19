@@ -15,11 +15,6 @@
 [![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)](https://www.python.org/) &nbsp;
 
 ---
-
-### 🌐 **Web Development Enthusiast**
-
 ![Web Development GIF](https://i.pinimg.com/originals/8d/65/4a/8d654a13763bdec3d37ab4180c8b66e6.gif)
 
 ---
-
-### 🛠️ **Let's Build the Future Together!**
