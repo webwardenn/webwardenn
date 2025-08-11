@@ -3,7 +3,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="200" src="https://i.imgur.com/6zMPh.gif" alt="atomic gif" />
+  <img height="200" src="https://camo.githubusercontent.com/393ad11f860dd8ff091c0aa3c950d8a633810d8912cfbf4dd9b15cf1b63b0ec8/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f38642f36352f34612f38643635346131333736336264656333643337616234313830633862363665362e676966" alt="atomic gif" />
 </div>
 
 <div align="center">
