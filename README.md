@@ -1,42 +1,44 @@
 <h1 align="center">I am, atomic! 🚀</h1>
 
-<br clear="both">
+###
 
 <div align="center">
-  <img height="200" src="https://camo.githubusercontent.com/393ad11f860dd8ff091c0aa3c950d8a633810d8912cfbf4dd9b15cf1b63b0ec8/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f38642f36352f34612f38643635346131333736336264656333643337616234313830633862363665362e676966" alt="atomic gif" />
+  <img height="200" src="https://camo.githubusercontent.com/393ad11f860dd8ff091c0aa3c950d8a633810d8912cfbf4dd9b15cf1b63b0ec8/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f38642f36352f34612f38643635346131333736336264656333643337616234313830633862363665362e676966"  />
 </div>
 
+###
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60" alt="php logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60" alt="php logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="60" alt="materialui logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="60" alt="materialui logo"  />
 </div>
+
+###
 
 <div align="center">
   <a href="https://webwarden.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo" />
+    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
   </a>
 </div>
 
+###
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=webwardenn&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
-  <img src="https://streak-stats.demolab.com?user=webwardenn&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=webwardenn&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=ocean_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=webwardenn&locale=en&mode=daily&theme=ocean_dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/webwardenn/webwardenn/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/webwardenn/webwardenn/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/webwardenn/webwardenn/output/pacman-contribution-graph.svg">
-</picture>
+###
